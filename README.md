@@ -2,7 +2,7 @@
 
 
 <h4 align="left"><a href="https://oneko.zone">
-   <img alt="Zhenglin Cheng" src="https://readme-typing-svg.herokuapp.com/?lines=Zhenglin+Cheng&NLP&AI-enhanced+System&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Zhenglin Cheng" src="https://readme-typing-svg.herokuapp.com/?lines=Zhenglin+Cheng;NLP+Starter;AI-Enhanced+System&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h4>
 
 <p align="left">
