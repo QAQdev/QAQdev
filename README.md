@@ -2,7 +2,7 @@
 
 
 <h4 align="left"><a href="https://oneko.zone">
-   <img alt="Zhenglin Cheng" src="https://readme-typing-svg.herokuapp.com/?lines=Zhenglin+Cheng;LLM+Player;MLSys;Distributed+System&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Zhenglin Cheng" src="https://readme-typing-svg.herokuapp.com/?lines=Zhenglin+Cheng;LLM+Player;MLSys;Distributed+Systems&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h4>
 
 <p align="left">
@@ -14,3 +14,4 @@
 ![QAQdev's Github Stats](https://github-readme-stats.vercel.app/api?username=QAQdev&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
 🤔 Recent Focus: Master's Application
+📚 Learning: Optimization for ML
