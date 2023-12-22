@@ -13,6 +13,6 @@
 
 ![QAQdev's Github Stats](https://github-readme-stats.vercel.app/api?username=QAQdev&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
-🤔 Recent Focus: Master's Application
+🤔 Recent Focus: Mixture of Experts
 
 📚 Learning: Optimization for ML
