@@ -16,3 +16,5 @@
 🤔 Recent Focus: Mixture of Experts
 
 📚 Learning: Optimization for ML
+
+📮 Email: zhenglin.cheng@zju.edu.cn / zhenglin.cheng.cc@gmail.com
