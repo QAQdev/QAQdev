@@ -13,7 +13,7 @@
 
 ![QAQdev's Github Stats](https://github-readme-stats.vercel.app/api?username=QAQdev&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
-🤔 Recent Focus: Mixture of Experts, Collaborative Inference Algorithm / System
+🤔 Recent Focus: [Mixture of Experts](https://github.com/LINs-lab/DynMoE), Collaborative Inference Algorithm / System
 
 📚 Learning: Optimization for ML
 
