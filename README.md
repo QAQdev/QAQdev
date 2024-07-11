@@ -13,7 +13,8 @@
 
 ![QAQdev's Github Stats](https://github-readme-stats.vercel.app/api?username=QAQdev&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
-🤔 Recent Focus: 🔥🔥🔥 [Mixture of Experts](https://github.com/LINs-lab/DynMoE), Multimodal Language Models, Collaborative Inference Algorithm / System
+🤔 Recent Focus: 🔥🔥🔥 [Mixture of Experts](https://github.com/LINs-lab/DynMoE), [Synthetic Data of LLM](https://multi-modal-self-instruct.github.io/), Collaborative Inference Algorithm / System
+
 
 📚 Learning: Optimization for ML
 
