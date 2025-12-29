@@ -11,10 +11,6 @@
   </a>
 </p>
 
-![QAQdev's Github Stats](https://github-readme-stats.vercel.app/api?username=QAQdev&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
-
 🤔 Recent Focus: 🔥🔥🔥 Unified Multimodal Models, Few-step generation.
-
-📚 Learning: Optimization for ML
 
 📮 Email: zhenglin.cheng [AT] zju.edu.cn / zhenglin.cheng.cc [AT] gmail.com
